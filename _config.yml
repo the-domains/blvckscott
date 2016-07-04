@@ -1,14 +1,14 @@
 layout_spectrum: 0.9528977340087295
 typography_spectrum: 0.5748833380639553
 color:
-  brandStrength: 0.07129249512217939
-  lightness: 0.4999675154685974
-  saturation: 0.1942686727270484
-  rhythmicContrast: 0.6389217169489712
+  brandStrength: 0.11525674629956484
+  lightness: 0.9997191678266972
+  saturation: 0.8045038699638098
+  rhythmicContrast: 0.2141481575090438
   brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: BLVCKSCOTT
