@@ -1,4 +1,3 @@
-layout_spectrum: 0.04196197958663106
 typography_spectrum: 0.6693210161756724
 color:
   brandStrength: 0.11525674629956484
@@ -11,5 +10,7 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+layout_spectrum: 0.04196197958663106
 name: BLVCKSCOTT
 title: Everything
+description: All in One
